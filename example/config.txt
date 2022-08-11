@@ -1,0 +1,2 @@
+Prefix plugins/QiimeMetadataTranslate/example
+Plugin QiimeMetadataTranslate inputfile Samples.qiime2.txt outputfile .
